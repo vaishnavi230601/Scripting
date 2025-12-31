@@ -6,4 +6,6 @@ echo "Adding new line"
 echo "I am from Devops and cloud team"
 echo " Adding extra line to the script"
 echo "Add one more new line"
+echo "I am from B2"
 echo "I am from B1"
+
