@@ -8,5 +8,5 @@ echo " Adding extra line to the script"
 echo "Add one more new line"
 echo "I am from B2"
 echo "I am from B1"
-echo "Run my jenkins job-2"
+echo "Run my job-2"
 
